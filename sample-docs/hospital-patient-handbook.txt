@@ -1,0 +1,14 @@
+CityCare Hospital Patient Handbook
+
+Appointments: Patients should arrive 20 minutes before the scheduled
+appointment.
+
+Emergency: Emergency department operates 24/7.
+
+Visiting Hours: 10:00 AM to 7:00 PM.
+
+Billing: Bills can be paid online or at the billing counter.
+
+Medical Reports: Digital reports are available within 48 hours.
+
+Pharmacy: Hospital pharmacy offers 10% discount for senior citizens.
